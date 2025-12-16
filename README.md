@@ -51,19 +51,19 @@ Construit avec une stack moderne pour garantir performance et maintenabilité :
 
 ### 1. Accueil Cinématique
 Une première impression inoubliable avec vidéo/image de fond immersive.
-![Hero Section](public/img/hero_bg_premium.png)
+![Hero Section](public/img/screenshot_hero.png)
 
 ### 2. Sélection des Services (Bento Grid)
 Une présentation claire et moderne des trajets populaires.
-![Services](public/img/service_cdg_day.png)
+![Services](public/img/screenshot_services.png)
 
 ### 3. Réservation Simplifiée
 Un parcours utilisateur fluide pour maximiser les conversions.
-![Booking Wizard](public/img/ui_booking_wizard.png)
+![Booking Wizard](public/img/screenshot_booking.png)
 
 ### 4. Flotte de Prestige
 Une mise en avant immersive des véhicules disponibles.
-![Fleet Section](public/img/ui_fleet_section.png)
+![Fleet Section](public/img/screenshot_fleet.png)
 
 ---
 
