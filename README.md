@@ -55,7 +55,7 @@ Une première impression inoubliable avec vidéo/image de fond immersive.
 
 ### 2. Sélection des Services (Bento Grid)
 Une présentation claire et moderne des trajets populaires.
-![Services](public/img/screenshot_services.png)
+![Services](public/img/screenshot_services_v2.png)
 
 ### 3. Réservation Simplifiée
 Un parcours utilisateur fluide pour maximiser les conversions.
@@ -63,7 +63,7 @@ Un parcours utilisateur fluide pour maximiser les conversions.
 
 ### 4. Flotte de Prestige
 Une mise en avant immersive des véhicules disponibles.
-![Fleet Section](public/img/screenshot_fleet.png)
+![Fleet Section](public/img/screenshot_fleet_v2.png)
 
 ---
 
