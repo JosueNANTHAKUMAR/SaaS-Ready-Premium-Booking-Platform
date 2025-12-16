@@ -59,7 +59,11 @@ Une présentation claire et moderne des trajets populaires.
 
 ### 3. Réservation Simplifiée
 Un parcours utilisateur fluide pour maximiser les conversions.
-*(Voir le site en live pour tester le wizard)*
+![Booking Wizard](public/img/ui_booking_wizard.png)
+
+### 4. Flotte de Prestige
+Une mise en avant immersive des véhicules disponibles.
+![Fleet Section](public/img/ui_fleet_section.png)
 
 ---
 
